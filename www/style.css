@@ -1,0 +1,48 @@
+
+#buttonsDiv{
+
+    font-size: 20px;
+}
+
+.gameBut{
+    height: 50px;
+    width: 40%;
+    color: black;
+    background:hotpink;
+    font-size:18px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 00px;
+    text-align: center;
+    border-style: groove;
+    border-width: 3px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-color: navy;
+    border-radius: 8px;
+}
+
+#resetBut{
+    height: 50px;
+    width: 80%;
+    color: black;
+    background: goldenrod;
+    font-size:18px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 00px;
+    text-align: center;
+    border-style: groove;
+    border-width: 3px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-color: navy;
+    border-radius: 18px;
+}
+
+.divs {
+    padding-top: 10px;
+    color: black;
+    font-size: 3em;
+    text-align: center;
+}
